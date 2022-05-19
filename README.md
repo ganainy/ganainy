@@ -26,6 +26,10 @@
   <img src="https://github.com/ganainy/ganainy/blob/main/reminderly-gif.gif" width="200" height="400"/>
 </a>
 
+<a href="https://github.com/ganainy/realtime_quizzes/blob/master/README.md" target="_blank">
+  <img src="https://user-images.githubusercontent.com/44480226/169399095-cf2b3049-e0a4-41ed-8e0a-f267db793284.gif" width="400" height="400"/>
+</a>
+
 
 
  ##### Resume & Portfolio: 
