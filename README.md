@@ -13,24 +13,8 @@
   <img src='https://github.com/ganainy/ganainy/blob/main/maps.png' alt='website' height='30'>
 
 ##### Projects: 
-<a href="https://github.com/ganainy/GymMasters" target="_blank">
-  <img src="https://github.com/ganainy/ganainy/blob/main/gym-master-gif.gif" width="200" height="400"/>
-</a> 
 
-<a href="https://github.com/ganainy/Our_chat" target="_blank" rel="noopener noreferrer">
-  <img src="https://github.com/ganainy/ganainy/blob/main/our-chat-gif.gif" width="200" height="400"/>
-</a>
-
-
-<a href="https://github.com/ganainy/Reminderly" target="_blank">
-  <img src="https://github.com/ganainy/ganainy/blob/main/reminderly-gif.gif" width="200" height="400"/>
-</a>
-
-<a href="https://github.com/ganainy/portfolio" target="_blank">
-  <img src="https://user-images.githubusercontent.com/44480226/169400363-56fff694-a508-4921-8246-4141615d3ad7.gif" width="200" height="400"/>
-</a>
-
-
+[<img alt="alt_text" width="200" height="400" src="https://github.com/ganainy/ganainy/blob/main/our-chat-gif.gif" />](https://github.com/ganainy/Our_chat) [<img alt="alt_text" width="200" height="400" src="https://github.com/ganainy/ganainy/blob/main/gym-master-gif.gif" />](https://github.com/ganainy/GymMasters) [<img alt="alt_text" width="200" height="400" src="https://github.com/ganainy/ganainy/blob/main/reminderly-gif.gif" />](https://github.com/ganainy/Reminderly) [<img alt="alt_text" width="200" height="400" src="https://user-images.githubusercontent.com/44480226/169400363-56fff694-a508-4921-8246-4141615d3ad7.gif" />](https://github.com/ganainy/portfolio)
 
 
 [<img alt="alt_text" width="400" height="400" src="https://user-images.githubusercontent.com/44480226/169399095-cf2b3049-e0a4-41ed-8e0a-f267db793284.gif" />](https://github.com/ganainy/realtime_quizzes)
