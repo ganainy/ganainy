@@ -3,6 +3,18 @@ I'm **Amr** — a computer science graduate currently pursuing a master's in Int
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ganainy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganainy&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</p>
+<p align="center">
+  <img height="160em" src="https://streak-stats.demolab.com/?user=ganainy&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
 ### 🧠 Some of the technologies I Know
 - Android
 - Flutter
@@ -13,19 +25,6 @@ I'm **Amr** — a computer science graduate currently pursuing a master's in Int
 - Databases (SQL & NoSQL)
 - Firebase
 - Integrating SDKs
-
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ganainy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganainy&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</p>
-<p align="center">
-  <img height="160em" src="https://streak-stats.demolab.com/?user=ganainy&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
