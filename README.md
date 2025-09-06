@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm **Amr** — a computer science graduate currently pursuing a master's in Internet Security at **Westfälische Hochschule** in Germany. I enjoy everything related to technology and software development especially building mobile apps.
+I'm Amr, a computer science graduate currently pursuing a master's in Internet Security at **Westfaelische Hochschule** in Germany. I enjoy everything related to technology and software development especially building mobile apps.
 
 ---
 
