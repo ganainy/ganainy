@@ -1,71 +1,89 @@
-### Hi there 👋
-I'm Amr, a computer science graduate currently pursuing a master's in Internet Security at **Westfaelische Hochschule** in Germany. I enjoy everything related to technology and software development especially building mobile apps.
+# Hi, I'm Amr Elganainy 👋
+
+**M.Sc. Candidate in Internet Security** · Westfälische Hochschule Gelsenkirchen · Based in Dortmund, Germany
+
+I'm a Computer Science graduate (B.Sc., recognized in Germany) pursuing a Master's in Internet Security with a focus on mobile security, network monitoring, and automation. I'm actively seeking **Junior IT Support / Sysadmin** roles in Germany.
 
 ---
 
-### 📊 GitHub Stats
+## 🖥️ Home Lab & IT Experience
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ganainy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganainy&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</p>
-<p align="center">
-  <img height="160em" src="https://streak-stats.demolab.com/?user=ganainy&theme=tokyonight&hide_border=true" />
-</p>
+Building and maintaining a Hyper-V enterprise lab environment:
 
----
-
-### 🧠 Some of the technologies I Know
-- Android
-- Flutter
-- Java
-- Kotlin
-- MVVM Architecture
-- REST APIs
-- Databases (SQL & NoSQL)
-- Firebase
-- Integrating SDKs
+- **Windows Server**: Active Directory, DNS, DHCP, RDS (Terminal Server), Exchange Server, Fileserver
+- **Hybrid Identity**: Microsoft 365 tenant connected to on-prem DC via Azure AD Connect (Entra ID)
+- **Firewall & Segmentation**: FortiGate + pfSense — NAT, firewall rules, VPN, network segmentation
+- **Networking**: VLANs, Inter-VLAN Routing, OSPF basics, Subnetting, Wireshark, Cisco Packet Tracer
+- **Backup & Recovery**: Windows Server Backup — VM backup jobs, scheduling, restore validation
+- **Remote Admin**: RDP, PowerShell, Event Viewer
+- **Ticketing**: Jira Service Management (ITIL — SLA, escalation, knowledge base)
 
 ---
 
-### 🛠️ Projects
+## 🔐 IT Security Projects
 
-[<img width="200" height="400" src="https://github.com/ganainy/ganainy/blob/main/our-chat-gif.gif" />](https://github.com/ganainy/Our_chat)  
-**Our Chat** – [Repo](https://github.com/ganainy/Our_chat)
+### [Captive Portal Analyzer](https://github.com/ganainy/captive-portal-analyzer-android)
+Android app that captures and analyzes captive portal traffic for privacy research.  
+Intercepts POST requests, captures packets via PCAPDroid integration, uploads sessions to Firebase, and runs AI-powered privacy analysis using Gemini.  
+`Kotlin` `Jetpack Compose` `Gemini AI` `PCAPDroid` `Firebase` `MVVM`
 
----
-
-[<img width="200" height="400" src="https://github.com/ganainy/ganainy/blob/main/gym-master-gif.gif" />](https://github.com/ganainy/GymMasters)  
-**Gym Masters (Java 2021)** – [Repo](https://github.com/ganainy/GymMasters)  
-**Gym Masters (Kotlin 2025)** – [Repo](https://github.com/ganainy/gym_masters_kotlin_compose)
-
-
----
-
-[<img width="200" height="400" src="https://github.com/ganainy/ganainy/blob/main/reminderly-gif.gif" />](https://github.com/ganainy/Reminderly)  
-**Reminderly** – [Repo](https://github.com/ganainy/Reminderly)
+### [Raspberry Pi Captive Portal](https://github.com/ganainy/raspberrypi-captive-portal)
+Raspberry Pi-based captive portal with DNS redirection, HTTP interception, and SSH reverse tunneling to a remote AWS EC2 authentication server.  
+Two variants: remote login (for larger businesses) and local login (self-contained, no cloud dependency).  
+`Linux` `Shell` `Node.js` `iptables` `SSH tunneling` `DNS` `SQLite`
 
 ---
 
+## 🤖 Automation & Dev Projects
 
-[<img width="400" height="400" src="https://user-images.githubusercontent.com/44480226/169399095-cf2b3049-e0a4-41ed-8e0a-f267db793284.gif" />](https://github.com/ganainy/realtime_quizzes)  
-**Real-time Quizzes** – [Repo](https://github.com/ganainy/realtime_quizzes)
+### [AI Mobile UI Crawler](https://github.com/ganainy/ai-mobile-ui-crawler)
+AI-powered Android app crawler that uses Google Gemini to intelligently navigate mobile apps via ADB, screenshots, and structural analysis — enabling automated testing and UI coverage mapping.  
+`Python` `Appium` `ADB` `Gemini AI` `SQLite`
+
+### [VibeHired](https://github.com/ganainy/VibeHired-ai) · [Live Demo](https://vibehired.ganainy.dev)
+AI job application tracker with ATS scoring, auto-tailored CV & cover letter generation, Kanban board, and public developer portfolio builder.  
+`React` `Node.js` `TypeScript` `AI`
+
+### [Our Chat](https://github.com/ganainy/our-chat)
+Real-time chat app with private messaging, group chat, audio/image sharing, and push notifications.  
+`Kotlin` `React` `Node.js` `Firebase`
+
+### [Gym Masters](https://github.com/ganainy/gym_masters_kotlin_compose)
+Fitness tracking app with workout planning, progress tracking, and personalized goals.  
+`Kotlin` `Jetpack Compose`
 
 ---
 
-### 📄 Resume
-[View Resume](https://drive.google.com/drive/folders/1ZIHmoZBYllS8mb545TFHASr5kgzBzxMJ?usp=sharing)
+## 🛠️ Tech Stack
+
+| Area | Tools |
+|---|---|
+| **OS & Server** | Windows 10/11, Windows Server, Ubuntu/Debian CLI |
+| **Virtualization** | Hyper-V, VirtualBox |
+| **Cloud & Hybrid** | Microsoft 365, Azure AD / Entra ID, Azure AD Connect |
+| **Networking** | TCP/IP, DNS, DHCP, VLANs, NAT, Subnetting, Wireshark, Packet Tracer |
+| **Firewall/VPN** | FortiGate, pfSense |
+| **Scripting** | PowerShell, Bash, Python |
+| **Dev** | Kotlin, TypeScript, Java, Dart/Flutter, SQL, Git |
+| **Ticketing** | Jira Service Management |
 
 ---
 
-### 📬 Contact Me
+## 📜 Certifications
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/amr-elganainy/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-     <!-- Optional space -->
-  <a href="mailto:amrmohammedali11@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
+- 🎓 **Google IT Support Professional Certificate** — Google / Coursera (2024)
+- 📡 **Netzwerk- und Systemadministration** — Udemy (2026)
+
+---
+
+## 🌍 Languages
+
+🇩🇪 German — C1 &nbsp;|&nbsp; 🇬🇧 English — B2 &nbsp;|&nbsp; 🇪🇬 Arabic — Native
+
+---
+
+## 📬 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amr-elganainy/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amrmohammedali11@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vibehired.ganainy.dev/portfolio/ganainy)
